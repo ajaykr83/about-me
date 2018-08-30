@@ -1,2 +1,3 @@
 Working in Sfdc-SG
 Fav animal is Elephant
+Fav color is orange
