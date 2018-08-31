@@ -1,4 +1,4 @@
 Working in Sfdc-SG
-Fav animal is Elephant
+Fav animal is ELEPHANT
 Fav color is redish blue 
 adding copyright
